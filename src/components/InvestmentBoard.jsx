@@ -1,6 +1,5 @@
 import { formatter } from '../util/investment';
 export default function InvestmentBoard({ array, inputValues }) {
-  console.log('InvestmentBoard array:', array);
   return (
     <table id="result">
       <thead>
